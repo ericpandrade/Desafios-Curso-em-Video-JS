@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(70, 142, 236);
+    font: normal 1rem Arial;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    padding: 1.5rem;
+}
+
+main {
+    width: 500px;
+    padding: 15px;
+    background: white;
+    border-radius: 0.625rem;
+    margin: 0 auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    margin-top: 1.25rem;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}

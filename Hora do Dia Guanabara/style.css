@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 400 1rem Poppins, sans-serif;
+}
+
+#title {
+    font: 700 2rem Poppins, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    padding: 1.5rem;
+    color: #FFFCFF;
+}
+
+main {
+    width: 500px;
+    padding: 15px;
+    background: #FFFCFF;
+    border-radius: 0.625rem;
+    margin: 0 auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    text-align: center;
+}
+
+#horas{
+    margin-bottom: 1rem;
+    color: #303A2B;
+}
+
+img {
+    height: 250px;
+    width: 300px;
+    clip-path: circle();
+}
+
+footer {
+    font: 600 1rem Arial, serif;
+    margin-top: 1.25rem;
+    color: #FFFCFF;
+    text-align: center;
+    font-style: italic;
+}
